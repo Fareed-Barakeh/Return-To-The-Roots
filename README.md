@@ -1,4 +1,4 @@
-# ReturnToTheRoots
+# Return-To-The-Roots
 ReturnToTheRoots is a Python-based linguistic analysis tool designed to process Arabic verbs and generate their complete set of morphological derivatives. By taking a single verb as input, the system applies root extraction and morphological generation techniques to produce all possible derived forms, which are output to a .txt file for reference or further linguistic research.
 
 # Upcoming: 
